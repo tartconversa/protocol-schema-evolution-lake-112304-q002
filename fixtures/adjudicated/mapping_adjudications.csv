@@ -1,0 +1,2 @@
+adjudication_id,source_version,source_field,target_version,target_field,effective_state,effective_note,basis,decided_by,decided_at
+ADJ-001,v1,F-01,v2,F-01,approved,same,复核 MAP-001 与 MAP-002 后确认为同名同义，保留 approved,governance-02,2026-02-20T09:00:00Z

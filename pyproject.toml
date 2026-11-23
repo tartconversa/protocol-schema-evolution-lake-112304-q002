@@ -4,10 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "protocol_schema_evolution_lake"
-version = "0.1.0"
+version = "0.2.0"
 description = "科研数据湖合成资料"
 requires-python = ">=3.11,<3.15"
 dependencies = []
+
+[project.scripts]
+protocol-lake = "protocol_schema_evolution_lake.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

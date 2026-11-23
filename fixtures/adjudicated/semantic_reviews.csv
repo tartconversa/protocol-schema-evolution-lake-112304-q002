@@ -1,0 +1,7 @@
+review_id,source_version,source_field,target_version,target_field,judgment,basis,reviewer_role,decided_by,decided_at,review_state
+REV-001,v1,F-01,v2,F-01,same_quantity,同一温度测量，仅字段编号不变,experiment_owner,owner-01,2026-02-10T09:00:00Z,approved
+REV-002,v1,F-02,v2,F-02,same_quantity,同一质量测量，单位由克改为千克,experiment_owner,owner-01,2026-02-10T09:05:00Z,approved
+REV-003,v1,F-03,v2,F-04,split,总产率拆为固相与液相两项,experiment_owner,owner-02,2026-02-11T09:00:00Z,approved
+REV-004,v1,F-03,v2,F-05,split,总产率拆为固相与液相两项,experiment_owner,owner-02,2026-02-11T09:01:00Z,approved
+REV-005,v1,F-06,v2,F-06,renamed_only,信号字段仅改名为吸光度，测量不变,experiment_owner,owner-01,2026-02-10T09:10:00Z,approved
+REV-006,v1,F-07,v2,F-07,changed_meaning,由速率改为计数，科学含义不同,experiment_owner,owner-02,2026-02-12T09:00:00Z,approved

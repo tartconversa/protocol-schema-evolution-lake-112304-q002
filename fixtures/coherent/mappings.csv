@@ -1,0 +1,7 @@
+mapping_id,source_version,source_field,target_version,target_field,transform_note,approval_state
+MAP-001,v1,F-01,v2,F-01,same,approved
+MAP-002,v1,F-02,v2,F-02,unit-convert,approved
+MAP-003,v1,F-03,v2,F-04,split,approved
+MAP-004,v1,F-03,v2,F-05,split,approved
+MAP-005,v1,F-06,v2,F-06,same,approved
+MAP-006,v1,F-07,v2,F-07,same,approved

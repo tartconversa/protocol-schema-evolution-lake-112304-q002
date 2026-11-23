@@ -1,0 +1,13 @@
+protocol_id,version,field_id,name,type,unit,semantic_ref,required
+PR-A,v1,F-01,temperature,float,C,SEM-T,yes
+PR-A,v1,F-02,mass,float,g,SEM-M,yes
+PR-A,v1,F-03,yield_total,float,percent,SEM-Y,yes
+PR-A,v1,F-06,signal,float,AU,SEM-S,yes
+PR-A,v1,F-07,rate,float,1/min,SEM-R,yes
+PR-A,v2,F-01,temperature,float,C,SEM-T,yes
+PR-A,v2,F-02,mass,float,kg,SEM-M,yes
+PR-A,v2,F-04,yield_solid,float,percent,SEM-YS,yes
+PR-A,v2,F-05,yield_liquid,float,percent,SEM-YL,yes
+PR-A,v2,F-06,absorbance,float,AU,SEM-S,yes
+PR-A,v2,F-07,count,float,1/min,SEM-R2,yes
+PR-A,v2,F-08,new_field,float,mL,SEM-N,no

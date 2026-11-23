@@ -1,0 +1,2 @@
+conversion_id,source_unit,target_unit,factor,offset,approval_state,approved_by,basis
+CV-001,g,kg,0.001,0,approved,governance-01,SI 前缀换算 1 kg = 1000 g
